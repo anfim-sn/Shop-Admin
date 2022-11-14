@@ -12,7 +12,7 @@ For correct build via Webpack you must have:
 
 ## Preview
 
-[![preview](./preview.png)](https://project-structure/)
+https://shop-admin-lovat.vercel.app/
 
 ## Tech stack
 
@@ -26,7 +26,3 @@ For correct build via Webpack you must have:
 * `npm run develop` - запустит "WebpackDevServer"
 
 **Note:** Версии требуемые проектом указаны в `package.json` в поле `engines`
-
-## To build project:
-
-`npm run build` - "соберет" проект в "production" режиме.
