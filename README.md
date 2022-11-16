@@ -1,10 +1,8 @@
 # Admin Dashboard
 
-## Project
-
 https://shop-admin-lovat.vercel.app/
 
-##Description
+## Description
 
 Frontend of Admin panel for primary shop on vanilla.js.
 With Dashbodard charts, form for create new products, client & server sorting on tables
