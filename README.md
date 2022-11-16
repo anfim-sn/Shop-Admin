@@ -1,18 +1,13 @@
 # Admin Dashboard
 
-**Important!**
-
-For correct build via Webpack you must have:
-
-* nodejs >=16.13.1
-* npm >= 7.10.0
-
-Проект - это фронтенд часть типичной "Панели управления" для магазина товаров,
-реализованная на чистом JavaScript.
-
-## Preview
+## Project
 
 https://shop-admin-lovat.vercel.app/
+
+##Description
+
+Frontend of Admin panel for primary shop on vanilla.js.
+With Dashbodard charts, form for create new products, client & server sorting on tables
 
 ## Tech stack
 
